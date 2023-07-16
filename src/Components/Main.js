@@ -10,6 +10,13 @@ export default function Main() {
         <li>Powers thousands of enterprise apps, including mobile apps</li>
         <li>Can Be easily integrated to github.XD</li>
       </ul>
+      <h1 className="Names">Site Appreciated By</h1>
+      <ul>
+        <li>MridulGoenka</li>
+        <li>TanishaAgrawal</li>
+        <li>AdityaJaiswal</li>
+        <li>AbhinavAnand</li>
+      </ul>
     </main>
   );
 }

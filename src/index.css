@@ -43,11 +43,13 @@ img:hover {
 
 main {
   margin: 0;
-  background-color: #282d35;
   height: 100vh;
   padding: 20vh 5vh 0 30vh;
   font-family: Inter, sans-serif;
   font-size: large;
+}
+body {
+  background-color: #282d35;
 }
 
 .main {
@@ -73,7 +75,7 @@ main > ul > li::marker {
 
 /* Fixing BackGround Image  */
 
-main {
+body {
   background-image: url(./images/react-icon-large.png);
   background-repeat: no-repeat;
   background-position-x: right;
@@ -97,4 +99,7 @@ main {
     height: 100vh;
     padding: 5vh 0 0 5vw;
   }
+}
+.Names {
+  margin-top: 5vh;
 }
