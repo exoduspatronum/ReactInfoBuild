@@ -80,7 +80,7 @@ main {
   background-position-y: 40vh;
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 435px) {
   .navbar {
     flex-direction: column;
     height: 28vh;
